@@ -250,9 +250,10 @@ def validate_signature(public_key, signature, message):
 
 def welcome_msg():
     print("""       =========================================\n
-        SIMPLE COIN v1.0.0 - BLOCKCHAIN SYSTEM\n
+        SHITTER COIN v1.0.2 - BLOCKCHAIN SYSTEM\n
        =========================================\n\n
-        You can find more help at: https://github.com/cosme12/SimpleCoin\n
+        Original Credit to: https://github.com/cosme12/SimpleCoin\n
+        forked and cannibalized for Shitter coin by @skadrex\n
         Make sure you are using the latest version or you may end in
         a parallel chain.\n\n\n""")
 
