@@ -1,3 +1,15 @@
+# ShitterCoin
+This is a clone/fork of SimpleCoin (Thus all credits for original development go to github user cosme12)
+This crypto coin is a mineable coin named after our friend Alvin Lu
+It mines using sha256.
+
+
+
+
+
+
+-------------------------------------
+
 # SimpleCoin
 Just a really simple, insecure and incomplete implementation of a blockchain for a cryptocurrency made in Python. The goal of this project is to make a working blockchain currency, keeping it as simple as possible and to be used as educational material.
 
